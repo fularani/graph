@@ -1,0 +1,28 @@
+.App {
+  text-align: center;
+}
+
+/* .card{
+  display: flex;
+  justify-content: space-between;;
+  align-items: flex-end;
+} */
+
+.card{
+  border: 0.5 solid gray;
+}
+
+html {
+  font-family: system-ui, sans-serif;
+  font-size: 1.25rem;
+}
+
+body {
+  margin: 0;
+  padding: 0 1.5rem;
+}
+
+svg {
+  display: inline-block;
+  vertical-align: middle;
+}
